@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pieromazzino/Documents/TOULOUSE/2025-01/TANAKA/Progra_Semana1_TareaYPuntoExtra/ConsoleApp1/ConsoleApp1.csproj",
+      "projectUniqueName": "/Users/pieromazzino/Documents/TOULOUSE/2025-01/TANAKA/Progra_Tarea_Semana1/Progra_Semana1_TareaYPuntoExtra/ConsoleApp1/ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "/Users/pieromazzino/Documents/TOULOUSE/2025-01/TANAKA/Progra_Semana1_TareaYPuntoExtra/ConsoleApp1/ConsoleApp1.csproj",
+      "projectPath": "/Users/pieromazzino/Documents/TOULOUSE/2025-01/TANAKA/Progra_Tarea_Semana1/Progra_Semana1_TareaYPuntoExtra/ConsoleApp1/ConsoleApp1.csproj",
       "packagesPath": "/Users/pieromazzino/.nuget/packages/",
-      "outputPath": "/Users/pieromazzino/Documents/TOULOUSE/2025-01/TANAKA/Progra_Semana1_TareaYPuntoExtra/ConsoleApp1/obj/",
+      "outputPath": "/Users/pieromazzino/Documents/TOULOUSE/2025-01/TANAKA/Progra_Tarea_Semana1/Progra_Semana1_TareaYPuntoExtra/ConsoleApp1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/pieromazzino/.nuget/NuGet/NuGet.Config"
